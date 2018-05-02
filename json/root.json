@@ -1,7 +1,7 @@
 [
   {
     "path": "pl",
-    "address": "pl.json",
+    "address": "pl/pl.json",
     "type": "proxy"
   }
 ]
