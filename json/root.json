@@ -3,5 +3,15 @@
     "path": "pl",
     "address": "pl/pl.json",
     "type": "proxy"
+  },
+  {
+    "path": "com",
+    "address": "pl/pl.json",
+    "type": "proxy"
+  },
+  {
+    "path": "pl",
+    "address": "pl/pl.json",
+    "type": "proxy"
   }
 ]
