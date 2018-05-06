@@ -6,12 +6,12 @@
   },
   {
     "path": "com",
-    "address": "pl/pl.json",
+    "address": "uk/uk.json",
     "type": "proxy"
   },
   {
-    "path": "pl",
-    "address": "pl/pl.json",
+    "path": "uk",
+    "address": "uk/uk.json",
     "type": "proxy"
   }
 ]
