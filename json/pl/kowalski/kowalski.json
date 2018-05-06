@@ -1,5 +1,7 @@
-{
+[
+  {
     "path": "jan",
     "address": "pl/kowalski/jan/jan.json",
     "type": "proxy"
   }
+]
