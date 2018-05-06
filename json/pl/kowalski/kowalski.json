@@ -3,5 +3,10 @@
     "path": "jan",
     "address": "pl/kowalski/jan/jan.json",
     "type": "proxy"
+  },
+  {
+    "path": "tomek",
+    "address": "pl/kowalski/tomekn/tome.json",
+    "type": "proxy"
   }
 ]
