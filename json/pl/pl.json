@@ -1,5 +1,12 @@
-{
+[
+  {
     "path": "kowalski",
     "address": "pl/kowalski/kowalski.json",
     "type": "proxy"
+  },
+  {
+    "path": "nowak",
+    "address": "pl/nowak/nowak.json",
+    "type": "proxy"
   }
+]
