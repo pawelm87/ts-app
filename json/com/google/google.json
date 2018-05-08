@@ -1,7 +1,7 @@
 [
   {
     "path": "www",
-    "address": "com/google/www.txt",
+    "address": "com/google/www/www.txt",
     "type": "server"
   }
 ]
