@@ -8,5 +8,10 @@
     "path": "tomek",
     "address": "pl/kowalski/tomek/tomek.json",
     "type": "proxy"
+  },
+  {
+    "path": "janusz",
+    "address": "www.kowalski.jan.pl",
+    "type": "redirect"
   }
 ]
